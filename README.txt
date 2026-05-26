@@ -15,7 +15,7 @@
 🚀 Как поиграть (два способа)
 
 1. Самый простой: скачай EXE
-Зайди в [Releases](https://github.com/altairlegenda77-byte/NumberRPG/releases), скачай `УгадайкаRPG.exe` и запусти.  
+Зайди в https://github.com/altairlegenda77-byte/-RPG/releases/tag/v1.0.0, скачай `УгадайкаRPG.exe` и запусти.  
 Python не нужен, библиотеки не нужны, только твоя удача и желание победить Загадайку.
 
 2. Для любителей покопаться в коде
