@@ -12,7 +12,7 @@
 
 ---
 
-#🚀 Как поиграть (два способа)
+🚀 Как поиграть (два способа)
 
 1. Самый простой: скачай EXE
 Зайди в [Releases](https://github.com/altairlegenda77-byte/NumberRPG/releases), скачай `УгадайкаRPG.exe` и запусти.  
